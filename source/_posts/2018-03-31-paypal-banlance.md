@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "paypal 余额收购 八折回收余额"
+title: "长期收购Paypal零散余额"
 date: 2018-03-26 19:37:27 +0800
 comments: true
 categories: java
