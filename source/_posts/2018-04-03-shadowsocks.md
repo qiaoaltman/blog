@@ -35,7 +35,7 @@ categories: java
 
 选择合适自己的客户端下载就可以使用了
 
-![这里写图片描述](//img-blog.csdn.net/20180314114610399?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3NpbmF0XzI5ODQzNTQ3/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![](http://img-blog.csdn.net/20180314114610399?watermark/2/text/Ly9ibG9nLmNzZG4ubmV0L3NpbmF0XzI5ODQzNTQ3/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 配置服务器地址 端口 密码 启用就搞定了。
 
