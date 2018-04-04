@@ -11,22 +11,22 @@
 		{{ content | excerpt }}
 		{% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
 		{% if excerpted == 'true' %}<a href="{{ root_url }}{{ post.url }}" class="more-link">{{ site.excerpt_link }}</a>{% endif %}
+		<div id="container"></div>
+		<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+		<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+		<script>
+		var gitment = new Gitment({
+		  owner: 'tangxuelonggoogla@gmail.com',
+		  repo: 'blogsystem',
+		  oauth: {
+		    client_id: 'ff9601067aa361b40032',
+		    client_secret: 'e6966b1553849a90172864f2f6cf340be59c5995',
+		  },
+		})
+		gitment.render('container')
+		</script>
 	</div>
 {% else %}
 	<h1 class="title" itemprop="name">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
 	<div class="entry-content" itemprop="articleBody">{{ content }}</div>
 {% endif %}
-<div id="container"></div>
-<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
-var gitment = new Gitment({
-  owner: 'tangxuelonggoogla@gmail.com',
-  repo: 'blogsystem',
-  oauth: {
-    client_id: 'ff9601067aa361b40032',
-    client_secret: 'e6966b1553849a90172864f2f6cf340be59c5995',
-  },
-})
-gitment.render('container')
-</script>
