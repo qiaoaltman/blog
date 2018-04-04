@@ -3,7 +3,7 @@ layout: post
 title: "[广告]长期收购Paypal零散余额"
 date: 2018-03-26 19:37:27 +0800
 comments: true
-categories: java
+categories: AD
 ---
 
 [广告]长期收购Paypal零散余额
