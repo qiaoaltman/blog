@@ -5,8 +5,6 @@ date: 2018-04-04 19:37:27 +0800
 comments: true
 categories: HTTPS
 ---
-# Let's Encrypt，免费好用的 HTTPS 证书
-
 很早之前我就在关注 [Let's Encrypt](https://letsencrypt.org) 这个免费、自动化、开放的证书签发服务。它由 ISRG（Internet Security Research Group，互联网安全研究小组）提供服务，而 ISRG 是来自于美国加利福尼亚州的一个公益组织。Let's Encrypt 得到了 Mozilla、Cisco、Akamai、Electronic Frontier Foundation 和 Chrome 等众多公司和机构的支持，发展十分迅猛。
 
 申请 Let's Encrypt 证书不但免费，还非常简单，虽然每次只有 90 天的有效期，但可以通过脚本定期更新，配好之后一劳永逸。经过一段时间的观望，我也正式启用 Let's Encrypt 证书了，本文记录本站申请过程和遇到的问题。<!--more-->
