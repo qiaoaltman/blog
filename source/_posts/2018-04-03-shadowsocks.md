@@ -7,13 +7,15 @@ categories: AD
 ---
 
 [广告]shadowsocks的教程
-<!-- more -->
+
 
 # Shadowsocks 账号购买
 
 购买地址，[shadowsocks](https://portal.shadowsocks.to/aff.php?aff=12091)
 
 如下图，点击[立即购买](https://portal.shadowsocks.to/aff.php?aff=12091)
+
+<!-- more -->
 
 ![](https://ooo.0o0.ooo/2017/01/04/586d05895415d.png)
 
