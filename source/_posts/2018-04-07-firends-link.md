@@ -1,3 +1,10 @@
+---
+layout: post
+title: "友情链接"
+date: 2018-04-07 19:37:27 +0800
+comments: true
+categories: java
+---
 # 友情链接
 
 <style>
@@ -21,6 +28,7 @@ color:#999;
 font-size:14px;
 }
 </style>
+
 
 <ul class="links ssl">
   <li><a href="https://blog.csdn.net/sinat_29843547">我的CSDN</a></li>
