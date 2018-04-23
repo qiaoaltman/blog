@@ -218,7 +218,7 @@
 
             function statusChangeCallback(response) {
                 FB.api(
-                    '/{' + response.authResponse.userID + '}/picture',
+                    '/' + response.authResponse.userID + '/picture',
                     'GET',
                     {},
                     function (response) {
