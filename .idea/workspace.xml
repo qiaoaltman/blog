@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ab0d07b-ec42-415c-a0e8-c5a09602cfb3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/source/_includes/custom/category_feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/custom/category_feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/atom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/source/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2018-04-23-facebook-api.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2018-04-23-facebook-api.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,8 +29,26 @@
       <file leaf-file-name="2018-04-23-facebook-api.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_posts/2018-04-23-facebook-api.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2250">
-              <caret line="150" column="20" lean-forward="true" selection-start-line="150" selection-start-column="20" selection-end-line="150" selection-end-column="20" />
+            <state relative-caret-position="113">
+              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-04-06-linux-php.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/2018-04-06-linux-php.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-end-line="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="article.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_includes/article.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -59,6 +76,7 @@
       <find>public/piwik/piwik</find>
       <find>html&lt;/p&gt;</find>
       <find>Layout</find>
+      <find>&lt;/p&gt;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -96,6 +114,7 @@
         <option value="$PROJECT_DIR$/source/_posts/2018-01-09-about.md" />
         <option value="$PROJECT_DIR$/source/fbprivacy.html" />
         <option value="$PROJECT_DIR$/source/friendslink/index.html" />
+        <option value="$PROJECT_DIR$/source/_includes/article.html" />
         <option value="$PROJECT_DIR$/source/_posts/2018-04-23-facebook-api.md" />
       </list>
     </option>
@@ -132,6 +151,12 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
@@ -668,7 +693,7 @@
       <updated>1515410811600</updated>
       <workItem from="1515410813175" duration="8494000" />
       <workItem from="1515482082192" duration="6142000" />
-      <workItem from="1524450880114" duration="8200000" />
+      <workItem from="1524450880114" duration="8802000" />
     </task>
     <task id="LOCAL-00001" summary="博客提交">
       <created>1515484183002</created>
@@ -775,11 +800,32 @@
       <option name="project" value="LOCAL" />
       <updated>1524473113138</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="博客提交">
+      <created>1524473231352</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1524473231352</updated>
+    </task>
+    <task id="LOCAL-00017" summary="博客提交">
+      <created>1524473313595</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1524473313596</updated>
+    </task>
+    <task id="LOCAL-00018" summary="博客提交">
+      <created>1524473470162</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1524473470162</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22836000" />
+    <option name="totallyTimeSpent" value="23438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
@@ -858,9 +904,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="博客提交" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_includes/post/disqus_thread.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_includes/post/sharing.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -868,9 +911,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_includes/archive_post.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_includes/article.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_includes/banner.html">
@@ -1021,10 +1061,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/_includes/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2018-04-06-linux-php.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/2018-04-23-facebook-api.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2250">
-          <caret line="150" column="20" lean-forward="true" selection-start-line="150" selection-start-column="20" selection-end-line="150" selection-end-column="20" />
+        <state relative-caret-position="113">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
         </state>
       </provider>
     </entry>
