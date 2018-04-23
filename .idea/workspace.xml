@@ -29,8 +29,8 @@
       <file leaf-file-name="2018-04-23-facebook-api.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_posts/2018-04-23-facebook-api.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+            <state relative-caret-position="479">
+              <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
             </state>
           </provider>
         </entry>
@@ -129,10 +129,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="43" />
-    <option name="width" value="1260" />
-    <option name="height" value="688" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -693,7 +692,7 @@
       <updated>1515410811600</updated>
       <workItem from="1515410813175" duration="8494000" />
       <workItem from="1515482082192" duration="6142000" />
-      <workItem from="1524450880114" duration="8802000" />
+      <workItem from="1524450880114" duration="9750000" />
     </task>
     <task id="LOCAL-00001" summary="博客提交">
       <created>1515484183002</created>
@@ -821,11 +820,25 @@
       <option name="project" value="LOCAL" />
       <updated>1524473470162</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="博客提交">
+      <created>1524473861152</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1524473861152</updated>
+    </task>
+    <task id="LOCAL-00020" summary="博客提交">
+      <created>1524474880300</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1524474880300</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23438000" />
+    <option name="totallyTimeSpent" value="24386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
@@ -1077,8 +1090,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/2018-04-23-facebook-api.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        <state relative-caret-position="479">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
         </state>
       </provider>
     </entry>
