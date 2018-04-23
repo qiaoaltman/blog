@@ -20,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/friendslink/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="216" column="43" selection-start-line="216" selection-start-column="43" selection-end-line="216" selection-end-column="43" />
+            <state relative-caret-position="410">
+              <caret line="150" column="65" selection-start-line="150" selection-start-column="65" selection-end-line="150" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -647,7 +647,7 @@
       <updated>1515410811600</updated>
       <workItem from="1515410813175" duration="8494000" />
       <workItem from="1515482082192" duration="6142000" />
-      <workItem from="1524450880114" duration="2124000" />
+      <workItem from="1524450880114" duration="2900000" />
     </task>
     <task id="LOCAL-00001" summary="博客提交">
       <created>1515484183002</created>
@@ -677,11 +677,25 @@
       <option name="project" value="LOCAL" />
       <updated>1524453534645</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="博客提交">
+      <created>1524453629325</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1524453629325</updated>
+    </task>
+    <task id="LOCAL-00006" summary="博客提交">
+      <created>1524454867702</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1524454867702</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16760000" />
+    <option name="totallyTimeSpent" value="17536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
@@ -921,8 +935,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/friendslink/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="216" column="43" selection-start-line="216" selection-start-column="43" selection-end-line="216" selection-end-column="43" />
+        <state relative-caret-position="410">
+          <caret line="150" column="65" selection-start-line="150" selection-start-column="65" selection-end-line="150" selection-end-column="65" />
         </state>
       </provider>
     </entry>
