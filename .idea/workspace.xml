@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ab0d07b-ec42-415c-a0e8-c5a09602cfb3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/friendslink/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/source/friendslink/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="7ab0d07b-ec42-415c-a0e8-c5a09602cfb3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/friendslink/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="222" column="31" selection-start-line="222" selection-start-column="31" selection-end-line="222" selection-end-column="31" />
+            <state relative-caret-position="-164">
+              <caret line="189" column="12" selection-start-line="189" selection-start-column="12" selection-end-line="229" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-04-23-facebook-api.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/2018-04-23-facebook-api.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="123" column="41" selection-start-line="123" selection-start-column="41" selection-end-line="123" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -83,6 +89,7 @@
         <option value="$PROJECT_DIR$/source/_posts/2018-01-09-about.md" />
         <option value="$PROJECT_DIR$/source/fbprivacy.html" />
         <option value="$PROJECT_DIR$/source/friendslink/index.html" />
+        <option value="$PROJECT_DIR$/source/_posts/2018-04-23-facebook-api.md" />
       </list>
     </option>
   </component>
@@ -119,6 +126,12 @@
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -142,13 +155,13 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts" />
+      <recent name="$PROJECT_DIR$/source/about" />
+      <recent name="$PROJECT_DIR$/source/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source/about" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/about" />
-      <recent name="$PROJECT_DIR$/source/_posts" />
-      <recent name="$PROJECT_DIR$/source/images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -648,7 +661,7 @@
       <updated>1515410811600</updated>
       <workItem from="1515410813175" duration="8494000" />
       <workItem from="1515482082192" duration="6142000" />
-      <workItem from="1524450880114" duration="6140000" />
+      <workItem from="1524450880114" duration="7636000" />
     </task>
     <task id="LOCAL-00001" summary="博客提交">
       <created>1515484183002</created>
@@ -720,11 +733,32 @@
       <option name="project" value="LOCAL" />
       <updated>1524467546123</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="博客提交">
+      <created>1524468345156</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1524468345156</updated>
+    </task>
+    <task id="LOCAL-00012" summary="博客提交">
+      <created>1524468403209</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1524468403209</updated>
+    </task>
+    <task id="LOCAL-00013" summary="博客提交">
+      <created>1524468473340</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1524468473340</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20776000" />
+    <option name="totallyTimeSpent" value="22272000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
@@ -803,9 +837,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="博客提交" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_includes/post/date.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_includes/post/disqus_thread.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -964,8 +995,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/friendslink/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="222" column="31" selection-start-line="222" selection-start-column="31" selection-end-line="222" selection-end-column="31" />
+        <state relative-caret-position="-164">
+          <caret line="189" column="12" selection-start-line="189" selection-start-column="12" selection-end-line="229" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2018-04-23-facebook-api.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="123" column="41" selection-start-line="123" selection-start-column="41" selection-end-line="123" selection-end-column="41" />
         </state>
       </provider>
     </entry>
