@@ -147,6 +147,8 @@
 				scope="public_profile,email"
 				onlogin="checkLoginState();">
 		</fb:login-button>
+
+		<div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">分享</a></div>
 	</div>
 
 </article>
@@ -175,7 +177,18 @@
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 
+
+
 <a href="http://www.miitbeian.gov.cn/">京ICP备18014423号</a>
+
+				<div id="fb-root"></div>
+				<script>(function(d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.src = 'https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.12&appId=386610931818049&autoLogAppEvents=1';
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));</script>
 </footer>
 			<script src="/javascripts/slash.js"></script>
 <script src="/javascripts/jquery.fancybox.pack.js"></script>
