@@ -150,3 +150,7 @@ curl -F 'client_id=CLIENT_ID' \
 ### Google api login
 
 参考链接 https://developers.google.com/identity/sign-in/web/sign-in
+
+google share
+
+https://developers.google.com/+/web/share/
