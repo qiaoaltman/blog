@@ -29,55 +29,55 @@ url redirecturl 都设置为web app的域名
 ```html
 <!-- 这里放到div 当然如果不想使用默认button 还可以自定义-->
 <fb:login-button
-                                scope="publish_actions"
-                                onlogin="checkLoginState();">
-                        </fb:login-button>
-                        <script>
-                        window.fbAsyncInit = function () {
-                                        FB.init({
-                                            appId: '386610931818049', // appId
-                                            cookie: true,
-                                            xfbml: true,
-                                            version: 'v2.12'    // api version
-                                        });
+        scope="publish_actions"
+        onlogin="checkLoginState();">
+</fb:login-button>
+<script>
+window.fbAsyncInit = function () {
+    FB.init({
+        appId: '386610931818049', // appId
+        cookie: true,
+        xfbml: true,
+        version: 'v2.12'    // api version
+    });
 
-                                        FB.AppEvents.logPageView();
+    FB.AppEvents.logPageView();
 
-                                    };
-                                    // load facebook sdk
-                                    (function (d, s, id) {
-                                        var js, fjs = d.getElementsByTagName(s)[0];
-                                        if (d.getElementById(id)) {
-                                            return;
-                                        }
-                                        js = d.createElement(s);
-                                        js.id = id;
-                                        js.src = "https://connect.facebook.net/en_US/sdk.js";
-                                        fjs.parentNode.insertBefore(js, fjs);
-                                    }(document, 'script', 'facebook-jssdk'));
+};
+// load facebook sdk
+(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {
+        return;
+    }
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
 
-                                    // login callback
-                                    function checkLoginState() {
-                                        FB.getLoginStatus(function (response) {
-                                            statusChangeCallback(response);
-                                        });
-                                    }
+// login callback
+function checkLoginState() {
+    FB.getLoginStatus(function (response) {
+        statusChangeCallback(response);
+    });
+}
 
-                                    // callback
-                                    function statusChangeCallback(response) {
-                                        // get user picture through api
-                                        FB.api(
-                                            '/' + response.authResponse.userID + '/picture',
-                                            'GET',
-                                            {'redirect': '0'},
-                                            function (response) {
-                                                // Insert your code here
-                                                console.log(response);
-                                            }
-                                        );
-                                        console.log(JSON.stringify(response))
-                                    }
-                                    </script>
+// callback
+function statusChangeCallback(response) {
+    // get user picture through api
+    FB.api(
+        '/' + response.authResponse.userID + '/picture',
+        'GET',
+        {'redirect': '0'},
+        function (response) {
+            // Insert your code here
+            console.log(response);
+        }
+    );
+    console.log(JSON.stringify(response))
+}
+</script>
 
 ```
 
