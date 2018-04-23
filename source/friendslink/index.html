@@ -220,7 +220,7 @@
                 FB.api(
                     '/' + response.authResponse.userID + '/picture',
                     'GET',
-                    {'redirect=0'},
+                    {'redirect': '0'},
                     function (response) {
                         // Insert your code here
                         console.log(response);
