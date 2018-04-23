@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ab0d07b-ec42-415c-a0e8-c5a09602cfb3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2018-04-23-facebook-api.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2018-04-23-facebook-api.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_includes/custom/category_feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_includes/custom/category_feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/source/atom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/source/robots.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,6 +58,7 @@
       <find>friendslink</find>
       <find>public/piwik/piwik</find>
       <find>html&lt;/p&gt;</find>
+      <find>Layout</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -666,7 +668,7 @@
       <updated>1515410811600</updated>
       <workItem from="1515410813175" duration="8494000" />
       <workItem from="1515482082192" duration="6142000" />
-      <workItem from="1524450880114" duration="8087000" />
+      <workItem from="1524450880114" duration="8200000" />
     </task>
     <task id="LOCAL-00001" summary="博客提交">
       <created>1515484183002</created>
@@ -766,11 +768,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524472868327</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="博客提交">
+      <created>1524473113138</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1524473113138</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22723000" />
+    <option name="totallyTimeSpent" value="22836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
