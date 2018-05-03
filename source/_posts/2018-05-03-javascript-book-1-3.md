@@ -75,9 +75,7 @@ DOM 文档对象模型，提供访问和操作页面内容的方法和接口
 BOM 浏览器对象模型，提供与浏览器交互的方法和接口
 
 
-### 2 .在html中使用JavaScript
-
-####<script> 标签
+### 2.在html中使用JavaScript
 
 defer defer可以延迟加载脚本，不过与将script标标签放入body结尾处相比，更多的会使用后者，因为defer只有少数浏览器支持。
 
